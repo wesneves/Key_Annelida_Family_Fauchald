@@ -1,0 +1,189 @@
+"id"	"P"	"G"	"ref"
+1	"Segmentação externa e cerdas ausentes"	"2"	2
+1	"Segmentação externa e/ou cerdas presentes"	"4"	4
+2	"Antenas emparelhadas no prostômio"	"3"	3
+2	"Antenas pareadas ausentes  pelos táteis ao longo do corpo  pequenas formas intersticiais"	"DINOPHILIDAE"	0
+3	"Corpo longo e esbelto  formas intersticiais"	"PROTODRILIDAE (em parte)"	0
+3	"Corpo curto e em forma de saco  pelágico"	"POEOBIIDAE"	0
+4	"Corpo um disco achatado com segmentação indistinta  ectoparasitário"	"SPINTHERIDAE"	0
+4	"O corpo não é um disco achatado  segmentação geralmente distinta  se distinta  então corpo claramente mais longo que largo"	"5"	5
+5	"Dorso com séries de élitros [escamas] ou cicatrizes elitrais distintas presentes na face dorsal das bases notopodiais em vários segmentos  feltro de notosetas emaranhadas pode estar presente"	"6"	6
+5	"Dorso sem élitros  cicatrizes elitrais ou feltro"	"11"	11
+6	"Neuracicula distalmente em forma de martelo"	"EULEPETHIDAE"	0
+6	"Neuracicula apontada distalmente"	"7"	7
+7	"Prostômio com uma única antena mediana  dorso com feltro  ou notosetas em forma de arpão ou mantidas eretas sobre o dorso"	"AFRODITIDAE"	0
+7	"Prostômio com uma a três antenas  dorso sem feltro  notoseta geralmente distintamente lateral em posição  nunca em forma de arpão"	"8"	8
+8	"Composto de neurosetas"	"9"	9
+8	"Neurosetas simples"	"10"	10
+9	"Todos os segmentos posteriores com élitros  prostômio com uma a três antenas"	"SIGALIONIDAE"	0
+9	"Élitros alternados com cirros dorsais ao longo de todo o comprimento do corpo  uma antena presente"	"PHOLOIDIDAE"	0
+10	"Glândulas giratórias presentes  antena mediana  se presente  fixada próximo à parte posterior ou média do prostômio  notosetas ausentes"	"POLYODONTIDAE"	0
+10	"Glândulas giratórias ausentes  antena mediana fixada na margem anterior do prostômio  notosetas geralmente presentes"	"POLYNOIDAE"	0
+11	"Notopódios com cerdas expandidas  douradas ou acobreadas que cobrem mais ou menos o dorso"	"12"	12
+11	"Notoseta de outra forma [pode estar ausente]"	"13"	13
+12	"Prostômio com grande tubérculo facial e antena mediana  notoseta em rosetas"	"PALMYRIDAE"	0
+12	"Prostômio sem tubérculo facial  lateral pareada e uma antena mediana presente  notoseta em fileiras transversais"	"CHRYSOPETALIDAE"	0
+13	"Extremidade posterior coberta ventralmente por um escudo quitinizado"	"STERNASPIDAE"	0
+13	"Extremidade posterior não coberta por um escudo"	"14"	14
+14	"Prostômio completamente retraído entre os primeiros parapódios que apresentam três pares de cirros tentaculares  parcialmente sustentados por acículos"	"PISIONIDAE (em parte)"	0
+14	"Prostômio não completamente retraído entre os primeiros parapódios que estão equipados de outra forma"	"15"	15
+15	"Extremidade anterior com uma ou várias séries de cerdas longas e especializadas cobrindo a extremidade anterior retrátil ou formando um opérculo ou uma série de espinhos protetores longos [páleas]"	"16"	16
+15	"Extremidade anterior sem cerdas excepcionalmente longas e especializadas [NOTA  ganchos curtos e fortes podem estar presentes]"	"20"	20
+16	"Cerdas especializadas longas e com compartimentada  formando uma gaiola protetora ao redor da extremidade anterior retrátil  corpo com numerosas papilas epiteliais"	"FLABELLIGERIDAE (parte)"	0
+16	"As cerdas anteriores especializadas não formam uma gaiola protetora  extremidade anterior não retrátil  pele-papilas poucas e pequenas  ou ausentes  cerdas de outra forma"	"17"	17
+17	"Cerdas especializadas delgadas  curvadas distalmente  muitas vezes espinhosas  prostômio com sete antenas"	"ONUPHIDAE (parte)"	0
+17	"Cerdas especializadas robustas  suaves e não curvadas distalmente  prostômio sem apêndices ou com numerosos tentáculos"	"18"	18
+18	"Cerdas especializadas em uma fileira transversal  tubo cônico  geralmente formado por grãos de areia bem ajustados"	"PECTINARIIDAE"	0
+18	"Cerdas anteriores especializadas como um grupo de paleas em forma de leque em ambos os lados da extremidade anterior ou como um opérculo para o tubo"	"19"	19
+19	"Cerdas especializadas formam paleas  extremidade anterior com dois a quatro pares de brânquias"	"AMPHARETIDAE (parte)"	0
+19	"As cerdas especializadas formam um opérculo  extremidade anterior sem brânquias"	"SABELLARIIDAE"	0
+20	"Extremidade anterior  incluindo em parte o prostômio  transformada em coroa tentacular"	"21"	21
+20	"Extremidade anterior não transformada em coroa tentacular [NOTA  Antenas e cirros tentaculares podem estar aglomerados perto da extremidade anterior]"	"25"	25
+21	"Tubo calcário  membrana torácica presente"	"22"	22
+21	"Tubo mucóide ou córneo  muitas vezes coberto de grãos de areia  membrana torácica ausente"	"23"	23
+22	"Tubo irregularmente torcido ou reto  às vezes enrolado próximo à base  corpo simétrico  mais de quatro setigers torácicos"	"SERPULIDAE"	0
+22	"Tubo completamente enrolado  corpo assimétrico  quatro setigers torácicos presentes"	"SPIRORBIDAE (Geralmente considerada uma subfamília de SERPULIDAE)"	0
+23	"Parapódios com uncini em uma ou algumas fileiras distintas  coroa tentacular com radioles lisos ou penados"	"24"	24
+23	"Pequenos uncini aglomerados em campos densos apenas nos neuropódios  coroa tentacular curta com tentáculos ramificados"	"OWENIIDAE (parte)"	0
+24	"Trato digestivo recurvado com ânus muito anteriormente  tórax sem ganchos  exceto no primeiro setígero"	"CAOBANGIIDAE"	0
+24	"Trato digestivo reto com ânus muito posterior ou terminal  tórax com ganchos na maioria dos setigeros"	"SABELLIDAE"	0
+25	"Setigero 4 com um ou alguns espinhos grossos  alguns parapódios medianos fortemente modificados  geralmente em forma de leque  tubos em forma de pergaminho  ou  se corneos  distintamente anulados"	"CHAETOPTERIDAE"	0
+25	"Setigero 4 sem espinhos grossos [NOTA  Outros setigeros podem ter cerdas modificadas]  sem parapódios em forma de leque  tubos nunca semelhantes a pergaminhos  se corneos  então sem anéis"	"26"	26
+26	"Numerosos tentáculos na parte inferior do prostômio ou no peristômio  branquias  se presente  limitado a alguns pares de setigeros anteriores"	"27"	27
+26	"Extremidade anterior com um número limitado [10 ou menos pares  geralmente] de antenas e cirros tentaculares  ou sem apêndices"	"29"	29
+27	"Branquias em uma fileira transversal ou oblíqua ou agrupadas em dois grupos de cada lado do dorso anterior  geralmente digiformes[em forma de mão] e suave  mais raramente bipinadas[formato de pena] ou lameladas [NOTA  As brânquias são frequentemente perdidas  mas as cicatrizes permanecem]  tentáculos bucais retráteis  uncini com dentes em uma ou poucas fileiras"	"AMPHARETIDAE (parte)"	0
+27	"Branquias  se presentes  em dois ou três segmentos sucessivos  pedunculadas ou sésseis  ramificadas ou como filamentos numerosos  raramente lisas[suave]  tentáculos bucais não retráteis  uncini com vários dentes em uma ou mais fileiras transversais acima da presa principal [com crista]"	"28"	28
+28	"Uncinis torácicos de cabo longo  abdominais de cabo curto"	"TRICHOBRANCHIDAE"	0
+28	"Uncini torácico e abdominal de cabo curto  às vezes com um prolongamento posterior no uncini torácico"	"TEREBELLIDAE"	0
+29	"Prostômio com pelo menos um par de antenas  peristômio geralmente com palpos emparelhados ou cirros tentaculares"	"30"	30
+29	"Prostômio sem apêndices ou com uma única antena  peristômio com palpos dorsais pareados  no máximo dois pares de cirros tentaculares ou sem apêndices"	"58"	58
+30	"O prostômio continua posteriormente em uma carúncula  grandes notocerdas furcadas  outros lisos ou serrilhados"	"31"	31
+30	"Carúncula ausente  notocerdas furcadas  se presentes  pequenas  ou apenas cerdas furcadas presentes"	"32"	32
+31	"Notosetas dispostas em fileiras transversais no dorso  brânquias mais curtas que as cerdas"	"EUPHROSINIDAE"	0
+31	"Notosetae em tufos nos lobos notopodiais  branquias tufos ramificados conspícuos"	"AMPHINOMIDAE"	0
+32	"Palpos ausentes"	"33"	33
+32	"Palpos presentes  às vezes como almofadas ventrolaterais no peristômio ou fundidos à extremidade anterior do prostômio  de modo que este último parece fendido  mas geralmente livre e digitado"	"49"	49
+33	"Setas ausentes  acicula presente apenas nos lobos aciculares prolongados do segundo segmento [primeiro segmento em juvenis]  caso contrário ausente"	"TOMOPTERIDAE"	0
+33	"Cerdas ou acículas ou ambas presentes na maioria dos segmentos"	"34"	34
+34	"Prostômio longo e cônico  geralmente anelado  com dois pares de antenas na ponta"	"35"	35
+34	"Prostômio não mais que o dobro da largura  nunca anelado  antenas longas ou curtas"	"36"	36
+35	"Faringe eversível com quatro mandíbulas em cruz  parapódios todos uni ou birramos"	"GLYCERIDAE"	0
+35	"Faringe eversível com mais de quatro mandíbulas  parapodia uniramous anteriormente e biramous posterioriy"	"GONIADIDAE"	0
+36	"Mandíbulas presentes"	"37"	37
+36	"Mandíbulas ausentes"	"40"	40
+37	"Cada mandíbula consiste em uma série de dentículos em uma fileira"	"DORVILLEIDAE (parte)"	0
+37	"Cada Jaw consiste em uma única peça"	"38"	38
+38	"Quatro ou cinco pares de mandíbulas"	"LYSARETIDAE"	0
+38	"Um único par de mandíbulas presentes"	"39"	39
+39	"Tanto cerdas compostas quanto simples presentes  parasitas em crustáceos decápodos"	"IPHITIMIDAE"	0
+39	"Todas as cerdas compostas  parasitas em peixes"	"ICHTHYOTOMIDAE"	0
+40	"Um par de antenas  formas intersticiais"	"PROTODRILIDAE"	0
+40	"Mais de um par de antenas"	"41"	41
+41	"Olhos maiores que o restante do prostômio  com lentes e camadas pigmentadas bem definidas"	"ALCIOPIDAE"	0
+41	"Olhos  se presentes  menores que o prostômio propriamente dito  geralmente pequenos vasos de pigmento  mas ocorrem olhos com lentes"	"42"	42
+42	"Série de grandes cápsulas epiteliais no dorso  dois ou três pares de antenas laterais e uma antena mediana não pareada"	"SPHAERODORIDAE"	0
+42	"Cápsulas epiteliais ausentes [NOTA  Cirros dorsais de phyllodocídeos podem estar inflados  mas estão associados aos parapódios e não situados no dorso]"	"43"	43
+43	"Cirros dorsais grandes e foliosos"	"PHYLLODOCIDAE"	0
+43	"Cirros dorsais  se presentes  cirriformes"	"44"	44
+44	"Setas ausentes  com alguns pares de apêndices anteriormente e posteriormente  parasita em lagostas"	"HISTRIOBDELLIDAE"	0
+44	"Setas presentes  vários pares de apêndices ao longo do corpo"	"45"	45
+45	"Todas as cerdas compostas  pelágicas"	"LOPADORHYNCHIDAE"	0
+45	"Pelo menos algumas cerdas de formas simples  bentônicas ou parasitárias"	"46"	46
+46	"Com bandas ciliares no dorso de cada segmento além de um grande órgão ciliar no prostômio  minúsculas formas intersticiais"	"NERILLIDAE"	0
+46	"A ciliação externa limita-se principalmente a pequenas manchas nos órgãos sensoriais e respiratórios  formas pequenas ou grandes"	"47"	47
+47	"Cinco antenas prostomiais  inquilinos em moluscos bivalves"	"ANTONBRUUNIDAE"	0
+47	"Quatro antenas  formas bentônicas de vida livre"	"48"	48
+48	"Cirros interramal entre os noto e neuropódios na maioria das formas  todas as cerdas simples"	"NEPHTYIDAE"	0
+48	"Cirros interramais ausentes  notocerdaas simples  neurocerdas compostas"	"LACYDONIIDAE"	0
+49	"Palpos bi ou multiarticulados"	"50"	50
+49	"Palpos simples  às vezes fundidos ao prostômio  de modo que este último aparece fendido ou formando almofadas ventrolaterais no peristômio"	"52"	52
+50	"Palpos multiarticulados  cirros tentaculares ausentes"	"DORVILLEIDAE (parte)"	0
+50	"Palpos biarticulados  pelo menos um par de cirros tentaculares"	"51"	51
+51	"Faringe com mandíbulas emparelhadas  paragnatos ou papilas moles ou ambas na superfície da faringe evertida ou faringe lisa  parapódios geralmente birramados"	"NEREIDAE"	0
+51	"Faringe geralmente sem mandíbulas  paragnatos ou papilas faríngeas sempre ausentes  faringe evertida muitas vezes com um círculo de papilas distais ou lapelas  parapódios muitas vezes sub-birramous ou unirramous"	"HESIONIDAE"	0
+52	"Palpos almofadas ventrolaterais no peristomium  cinco antenas occipitais e duas frontais"	"ONUPHIDAE (parte)"	0
+52	"Palpos fundidos anteriormente ao prostômio ou como projeções ventrolaterais livres  máximo cinco antenas"	"53"	53
+53	"Palpos com projeções ventrolaterais livres  algumas vezes fundidas entre si"	"54"	54
+53	"Os palpos se fundem ao prostômio de modo que este aparece anteriormente fendido"	"57"	57
+54	"Prostômio mais longo que largo  com um par de antenas na ponta"	"PISIONIDAE (parte)"	0
+54	"Prostômio não maior do que largo [NOTA  os palpos fundidos podem fazer com que pareça mais longo do que é]"	"55"	55
+55	"Mandíbulas presentes"	"DORVILLEIDAE (parte)"	0
+55	"Mandíbulas ausentes"	"56"	56
+56	"Parapódios fortemente prolongados  com acicula de sustentação longa  parte anterior do tubo digestivo não visivelmente separada em partes distintas  pelágicas"	"PONTODORIDAE	"	0
+56	"Parapodios não fortemente prolongado  acícula curta  parte anterior do trato digestivo com um proventrículo visível na maioria das espécies"	"SYLLIDAE"	0
+57	"Faringe eversível  se presente  desarmada"	"PILARGIIDAE"	0
+57	"Faringe eversível com quatro pares de maxilares superiores e um par de inferiores"	"EUNICIDAE"	0
+58	"Extremidade anterior  incluindo pró e peristômio sem apêndices [NOTA  Apêndices podem estar presentes em alguns setigeros anteriores]"	"59"	59
+58	"Prostômio com uma única antena mediana  ou peristômio com pares de palpos ou cirros tentaculares ou ambos pro- e peristômio equipados conforme indicado"	"85"	85
+59	"Palpos pareados no primeiro ou em um dos primeiros segmentos pós-peristomiais"	"60"	60
+59	"Palpos pareados ausentes"	"61"	61
+60	"Ambos  falcígeros compostos e cerdas simples presentes"	"ACROCIRRIDAE (parte)"	0
+60	"Todas as cerdas simples  distalmente curvas ou retas  às vezes aciculares"	"CIRRATULIDAE (parte)"	0
+61	"Com um único palpo médio-dorsal em um dos primeiros setigeros [setigeros 3-6 geralmente]"	"COSSURIDAE"	0
+61	"Palpo médio-dorsal ausente"	"62"	62
+62	"Com séries de filamentos branquiais longos e delgados e cirros tentaculares e dorsais ao longo do corpo [muitas vezes perdidos  as cicatrizes permanecem]"	"CIRRATULIDAE"	0
+62	"Filamentos branquiais e cirros tentaculares ausentes ou limitados a alguns segmentos"	"63"	63
+63	"Parapódios fortemente reduzidos de modo que as cerdas aparecem sésseis na parede do corpo  todas as cerdas simples  cerdas capilares verdadeiras ausentes"	"64"	64
+63	"Parapódios geralmente bem desenvolvidos ou pelo menos presentes como dobras baixas  cerdas geralmente de vários tipos diferentes  incluindo na maioria dos casos cerdas capilares verdadeiras"	"68"	68
+64	"Tórax com séries de longos cirros dorsais sustentados por acículas"	"PSAMMODRILIDAE"	0
+64	"Corpo geralmente não claramente regionalizado  além de papilas e parapódios reduzidos  outros apêndices ausentes"	"65"	65
+65	"Pelo menos algumas cerdas com estrutura interna de pequenas câmaras"	"FLABELLIGERIDAE (parte)"	0
+65	"Sem cerdas com câmaras"	"66"	66
+66	"Com uma papila entre os ramos de cada parapódio  cerdas lisas e ligeiramente recurvadas"	"FAUVELIOPSIDAE"	0
+66	"Sem papilas entre os ramos  cerdas de outra forma"	"67"	67
+67	"Cerdas em quatro fascículos em cada segmento [condição birramosa]"	"CTENODRILIDAE"	0
+67	"Cerdas em dois fascículos em cada segmento [condição unírramosa]"	"PARERGODRILIDAE"	0
+68	"Prostômio uma placa oblíqua  geralmente delimitada por uma flange"	"69"	69
+68	"Prostômio pontiagudo  arredondado ou brusco"	"70"	70
+69	"As cerdas incluem espinhos anteriores  uncini rostrados de haste longa e capilares espinhosos ou lisos  segmentos geralmente alongados [vermes-bambu]"	"MALDANIDAE"	0
+69	"As cerdas incluem os tipos bilimbato e espatulado  uncini de cabo longo e cerdas companheiras  segmentos não prolongados"	"SABELLONGIDAE"	0
+70	"Corpo separado em duas regiões com diferentes tipos de cerdas em uma região torácica e abdominal [NOTA  As regiões às vezes também podem ser definidas em características parapodiais]"	"71"	71
+70	"Corpo não separado em regiões  distribuição das cerdas e formas parapodiais graduadas ao longo do corpo"	"73"	73
+71	"Tórax com parapódios laterais  abdômen com noto e neuropódios em posição dorsal"	"ORBINIIDAE"	0
+71	"Parapodia lateral em todas as partes do corpo  notopódios frequentemente reduzidos em segmentos posteriores e neuropódios podem formar cinturões quase completos"	"72"	72
+72	"Cerdas capilares delgadas no tórax e às vezes apenas nos primeiros segmentos abdominais  brânquias  se presentes  filamentos retráteis no abdome"	"CAPITELLIDAE"	0
+72	"Delgadas cerdas capilares presentes nas partes anterior  mediana e às vezes posterior do corpo  incluindo a região branquial  branquias filamentos não retráteis  espessos ou simples"	"ARENICOLIDAE"	0
+73	"Extremidade anterior com complexo aparelho maxilar"	"74"	74
+73	"Aparelho maxilar ausente"	"76"	76
+74	"Cada mandíbula consiste em uma série de pequenos dentículos"	"DORVILLEIDAE"	0
+74	"Cada mandíbula composta por uma única peça"	"75"	75
+75	"Ganchos com capuz presentes em pelo menos alguns setigeros  um par de portadores maxilares"	"LUMBRINERIDAE"	0
+75	"Ganchos com capuz ausentes  três portadores maxilares"	"ARABELLIDAE"	0
+76	"Branchiae presente em no máximo 15-20 segmentos  a partir de um dos setigers 4-10"	"PARAONIDAE (parte)"	0
+76	"Branquias  se presentes  ou limitadas à extremidade anterior extrema  ou encontradas espalhadas por uma grande parte do corpo"	"77"	77
+77	"As cerdas incluem espinhos anteriores  uncini rostrados de haste longa e capilares espinhosos ou lisos  segmentos geralmente alongados [vermes-bambu]"	"MALDANIDAE"	0
+77	"Setal distribuição de outra forma  segmentos raramente alongados"	"78"	78
+78	"As cerdas incluem capilares simples e falcigeros bífidos simples em noto e neuropódios em uma longa região do corpo"	"QUESTIDAE"	0
+78	"Falcigeros bífidos simples ausentes"	"79"	79
+79	"Prostômio um cone alongado  geralmente mais de duas vezes mais comprido que largo  quase sempre articulado"	"80"	80
+79	"Prostômio com menos de duas vezes o comprimento  pode ser rombamente cônico  arredondado ou truncado  nunca articulado"	"81"	81
+80	"Faringe eversível com quatro mandíbulas  parapodios ou todos uniramous ou todos biramous"	"GLYCERIDAE (parte)"	0
+80	"Faringe eversível com mais de quatro mandíbulas  parapódios anteriores unirramous  os posteriores birramous"	"GONIADIDAE"	0
+81	"Lobos arredondados do parapódio com cirros grandes e facilmente deiscentes  pelágico"	"TYPHLOSCOLECIDAE"	0
+81	"Dobras baixas do parapódio ou projeções rombas em forma de botão  cirros  se presente  cirriforme"	"82"	82
+82	"Falcigeros compostos presentes em setigeros anteriores"	"ACROCIRRIDAE (parte)"	0
+82	"Todas as cerdas simples"	"83"	83
+83	"Neurosetas uncinais em estrutura"	"BOGUEIDAE"	0
+83	"Uncini ausente"	"84"	84
+84	"Todas as cerdas capilares simples  branquias cirriformes  pectíneos ou ausentes  prostômio inteiro  pontiagudo ou arredondado"	"OPHELIIDAE"	0
+84	"Cerdas furcadas e aciculares geralmente presentes  branquias  se presente  limitado à extremidade anterior e fortemente arborescente  prostômio em forma de T ou bífido"	"SCALIBREGMIDAE"	0
+85	"Prostômio com antena mediana"	"86"	86
+85	"Prostômio sem apêndices"	"88"	88
+86	"Branchiae presente em no máximo 15-20 segmentos  começando por um dos setigers 4-10"	"PARAONIDAE (parte)"	0
+86	"Distribuição branquial diferente ou branquiais ausentes"	"87"	87
+87	"Cirros notopodiais em forma de balão em alguns setigres  cerdas plumosas presentes"	"POECILOCHAETIDAE"	0
+87	"Cirros notopodiais cirriformes ou foliosos  cerdas plumosas ausentes"	"SPIONIDAE (parte)"	0
+88	"Com dois pares de cirros tentaculares  cerdas compostas"	"89"	89
+88	"Sem cirros tentaculares  cerdas simples"	"90"	90
+89	"Cerdas apêndices longos e delgados  pelágico"	"IOSPILIDAE"	0
+89	"Cerdas apêndices curtos  parasita"	"CALAMYZIDAE"	0
+90	"Com várias séries de pequenos uncini de eixo longo nos neutrópodes"	"OWENIIDAE (parte)"	0
+90	"Uncini em fileiras simples ou ausentes"	"91"	91
+91	"Prostômio achatado e espatulado  tão largo quanto a parte mais larga do corpo"	"MAGELONIDAE"	0
+91	"Prostômio não achatado  distintamente mais estreito do que a parte mais larga do corpo"	"92"	92
+92	"Parapodia imperceptível  segmentos abdominais prolongados com cerdas formando cinturões completos ao redor do corpo"	"HETEROSPIONIDAE"	0
+92	"Parapodia bem desenvolvido  segmentos abdominais geralmente não prolongados  cerdas limitadas a tufos laterais"	"93"	93
+93	"Todos os parapódios birramados  exceto possivelmente o primeiro"	"94"	94
+93	"Parapódio mediano uníramo"	"TROCHOCHAETIDAE"	0
+94	"Uncini ausente  notopódios com acículas  mas sem cerdas  verdadeiras brânquias ausentes"	"APISTOBRANCHIDAE"	0
+94	"Uncini normalmente presente  pelo menos nos neuropódios  notopódios com cerdas além de acicula  branquias presentes ou ausentes"	"SPIONIDAE (parte)"	0
